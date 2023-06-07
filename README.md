@@ -4,10 +4,10 @@
 I'm a Machine Learning and Data Engineer with years of experience in designing and developing scalable ML models and data pipelines. I am passionate about solving complex problems with data-driven solutions and have expertise in various Machine Learning frameworks and libraries.
 
 ## 🔭 What I Do
-Develop end-to-end Machine Learning pipelines including data collection, data preprocessing, feature engineering, model selection, training, and deployment.
-Design and implement scalable and optimized data processing pipelines for large-scale data analysis.
-Collaborate with cross-functional teams to identify business problems and develop data-driven solutions.
-Analyze data and provide insights to help stakeholders make better decisions.
+* Develop end-to-end Machine Learning pipelines including data collection, data preprocessing, feature engineering, model selection, training, and deployment.
+* Design and implement scalable and optimized data processing pipelines for large-scale data analysis.
+* Collaborate with cross-functional teams to identify business problems and develop data-driven solutions.
+* Analyze data and provide insights to help stakeholders make better decisions.
 ## 🌱 My Skills
 Programming Languages: Python, SQL, R
 Machine Learning Frameworks and Libraries: TensorFlow, PyTorch, Scikit-Learn, Keras, XGBoost, LightGBM, Optuna
