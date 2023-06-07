@@ -9,9 +9,12 @@ I'm a Machine Learning and Data Engineer with years of experience in designing a
 * Collaborate with cross-functional teams to identify business problems and develop data-driven solutions.
 * Analyze data and provide insights to help stakeholders make better decisions.
 ## 🌱 My Skills
-Programming Languages: Python, SQL, R \n
+Programming Languages: Python, SQL, R 
+
 Machine Learning Frameworks and Libraries: TensorFlow, PyTorch, Scikit-Learn, Keras, XGBoost, LightGBM, Optuna
+
 Data Processing and Visualization Tools: Apache Spark, SQL, Pandas, Matplotlib, Seaborn
+
 ## 📫 How to Reach Me
 LinkedIn: [https://www.linkedin.com/in/liwingtai/]
 
