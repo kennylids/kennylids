@@ -9,7 +9,7 @@ I'm a Machine Learning and Data Engineer with years of experience in designing a
 * Collaborate with cross-functional teams to identify business problems and develop data-driven solutions.
 * Analyze data and provide insights to help stakeholders make better decisions.
 ## 🌱 My Skills
-Programming Languages: Python, SQL, R 
+Programming Languages: Python, SQL
 
 Machine Learning Frameworks and Libraries: TensorFlow, PyTorch, Scikit-Learn, Keras, XGBoost, LightGBM, Optuna
 
