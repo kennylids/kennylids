@@ -1,6 +1,8 @@
 ![ML and Data Development](https://github.com/kennylids/kennylids/blob/main/DS%20pyramid.png)
 
-# Hi there, I'm Ken 👋
+<h1 align="center">**Hi 👋, I'm Rishav Chanda**</h1>
+<h3 align="center">FullStack ML & Data Engineer from HK</h3>
+
 I'm a Machine Learning and Data Engineer with years of experience in designing and developing scalable ML models and data pipelines. I am passionate about solving complex problems with data-driven solutions and have expertise in various Machine Learning frameworks and libraries.
 
 ## 🔭 What I Do
