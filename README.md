@@ -18,9 +18,9 @@ Machine Learning Frameworks and Libraries: TensorFlow, PyTorch, Scikit-Learn, Ke
 Data Processing and Visualization Tools: Apache Spark, SQL, Pandas, Matplotlib, Seaborn
 ## 🏆 My FullStack Deployable Projects
 * insider trading: predict stock performance based on US insider trading activities
-*   stack: python, pandas, lightbgm regressor, selenium 
+  *   stack: python, pandas, lightbgm regressor, selenium 
 * horse betting: rank which horses are likely to be in top places in HKJC 
-*   stack: python, pandas, lightbgm ranker, selenium 
+  *   stack: python, pandas, lightbgm ranker, selenium 
 ## 📫 How to Reach Me
 LinkedIn: [https://www.linkedin.com/in/liwingtai/]
 
