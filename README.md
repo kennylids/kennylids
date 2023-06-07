@@ -15,6 +15,9 @@ Machine Learning Frameworks and Libraries: TensorFlow, PyTorch, Scikit-Learn, Ke
 
 Data Processing and Visualization Tools: Apache Spark, SQL, Pandas, Matplotlib, Seaborn
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/kennylids/github-readme-stats)
+
+
 ## 📫 How to Reach Me
 LinkedIn: [https://www.linkedin.com/in/liwingtai/]
 
